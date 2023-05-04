@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoGitApplication {
 
     public static void main(String[] args) {
-        System.out.println("it's demodevops");
-        System.out.println("it's demodevops rep");
+        System.out.println("it's first");
+        System.out.println("it's second");
     }
 
 }
